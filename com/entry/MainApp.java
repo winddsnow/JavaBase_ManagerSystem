@@ -1,11 +1,4 @@
-package com.itheima.entry;
-
-import com.itheima.bean.Student;
-import com.itheima.bean.Teacher;
-import com.itheima.utils.Utils;
-
-import java.util.ArrayList;
-import java.util.Scanner;
+//需要导包
 
 
 //入口类
