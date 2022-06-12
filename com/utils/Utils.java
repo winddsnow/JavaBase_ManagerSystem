@@ -1,15 +1,7 @@
-package com.itheima.utils;
+
 //工具类，IDE自动导包
 
-import com.itheima.bean.Person;
-import com.itheima.bean.Student;
-import com.itheima.bean.Teacher;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
+//需要导包
 
 //3.定义的工具类，工具类基本使用static修饰，方便其他类调用，将需要使用的工具方法封装在这个类中
 //知识点：基本类型与引用类型  int与string的转换，基本类型默认值，静态变量

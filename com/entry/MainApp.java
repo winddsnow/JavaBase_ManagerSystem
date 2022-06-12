@@ -1,5 +1,8 @@
 //需要导包
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 
 //入口类
 public class MainApp {

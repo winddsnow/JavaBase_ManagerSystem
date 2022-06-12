@@ -1,4 +1,4 @@
-package com.itheima.bean;
+//需要导包
 
 public class Student extends Person{
         //子类-即这个学生类的无参构造

@@ -1,6 +1,6 @@
 
 //导包，IDE自动生成
-package com.itheima.bean;
+//需要导包
 
 //1.定义一个person的父类，里面有成员变量，构造方法，重写tostring（为了展示信息），get和set方法，
 // 除了成员变量，上述其他均可按alt+insert自动构建

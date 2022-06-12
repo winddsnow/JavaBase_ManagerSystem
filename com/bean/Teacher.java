@@ -1,4 +1,4 @@
-package com.itheima.bean;
+//需要导包
 //3.定义教师类，继承自person，一般继承的子类，同父类一样，alt+insert--提供无参以及满参构造方法
 public class Teacher extends Person {
 
